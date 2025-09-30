@@ -43,10 +43,12 @@ The core algorithms are provided as compiled `.p` files to protect the intellect
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@article{li2025nighttime,
+@article{li2025real,
   title={Real-World Nighttime Dehazing via Score-Guided Multi-Scale Fusion and Dual-Channel Enhancement},
   author={Li, Tao and Liu, Yun and Luo, Shirui and Ren, Wenqi and Lin, Weisi},
-  year={2025}
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
