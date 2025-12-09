@@ -2,7 +2,7 @@ function smfde_demo
 clc;
 clear all;
 addpath nsst_toolbox
-
+addpath support_function
 % Specify input and output directories
 input_path = 'input_images';
 output_path = 'output_images';
