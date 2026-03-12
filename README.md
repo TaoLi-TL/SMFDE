@@ -47,8 +47,10 @@ If you use this code in your research, please cite our paper:
   title={Real-World Nighttime Dehazing via Score-Guided Multi-Scale Fusion and Dual-Channel Enhancement},
   author={Li, Tao and Liu, Yun and Luo, Shirui and Ren, Wenqi and Lin, Weisi},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2025},
-  publisher={IEEE}
+  year={2026},
+  volume={36},
+  number={3},
+  pages={3306-3319},
 }
 ```
 
